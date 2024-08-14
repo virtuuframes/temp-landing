@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background: #f7f7fd;
+  
+}
+
+h1 {
+  color: white;
+  margin-top: 0vh;
+  transform: translateY(10vh);
+  font-family: 'Geist Mono';
+  font-weight: normal;
+  font-size: 3rem;
+}
+
+.bg-black {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  flex-direction: column;
+}
